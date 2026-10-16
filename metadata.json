@@ -1,0 +1,10 @@
+{
+  "name": "Puja Navigator Kolkata",
+  "description": "Discover Durga Puja pandals across Kolkata, calculate real routes and travel times, and plan optimized multi-pandal hopping itineraries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
